@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Kamelia
+- 👩‍💻 i'm a 42 student
 - 👀 I’m interested in Front-end Development and Design
 - 🌱 I’m currently learning C
 
